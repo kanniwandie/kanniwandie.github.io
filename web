@@ -9,13 +9,6 @@
     </head>
 
     <body>
-        <header>
-            <nav>
-                <ul>
-                    <li><a href="/index.html"><b>duckupus</b></a></li><li><a href="/about.html">About</a></li><li><a href="#">Contact</a></li>
-                </ul>
-            </nav>
-        </header>
         <div id="container">
             <main>
                 <h1>Hi there!</h1>
@@ -27,7 +20,7 @@
         </div>
 
         <footer>
-            <p>&copy; 2024 duckupus </p>
+            <p>&copy; 2024 kanniwandie </p>
         </footer>
     </body>
 </html>
