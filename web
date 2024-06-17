@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>About Me</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width:device-width, initial-scale=1, minimum-scale=1">
+        <link rel="stylesheet" href="/style/articles.css">
+        <link rel="stylesheet" href="/style/style.css">
+    </head>
+
+    <body>
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="/index.html"><b>duckupus</b></a></li><li><a href="/about.html">About</a></li><li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div id="container">
+            <main>
+                <h1>Whoami</h1>
+                <p>I enjoy finding and learning new (but probably irrelavant) things.</p>
+                <p>This blog will contain abit of the <code>/dev/random</code> things in my brain, in a hopefully more consolidated format.</p>
+            </main>
+        </div>
+
+        <footer>
+            <p>&copy; 2024 duckupus </p>
+        </footer>
+    </body>
+</html>
