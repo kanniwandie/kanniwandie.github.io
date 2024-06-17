@@ -18,9 +18,11 @@
         </header>
         <div id="container">
             <main>
-                <h1>Whoami</h1>
-                <p>I enjoy finding and learning new (but probably irrelavant) things.</p>
-                <p>This blog will contain abit of the <code>/dev/random</code> things in my brain, in a hopefully more consolidated format.</p>
+                <h1>Hi there!</h1>
+                <p>I'm John Doe and I work in ducktech.</p>
+                <p>My job at ducktech is to protect the company from any vulnerabilities. </p>
+                <p>You can contact me through my email or github.</p>
+                <p>I like to stare at the ceiling during my free time.</p>
             </main>
         </div>
 
